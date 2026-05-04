@@ -15,3 +15,8 @@ Students can play individually or in teams (1–4 teams), answering questions to
 The main goal of this project is to:
 - Test students' understanding of different subjects
 - Encourage active learning through game-based interaction
+
+## Project Structure
+
+- **docs** – project documentation (Test Plan, Flowchart)
+- **archive** – downloadable xml version of the project
